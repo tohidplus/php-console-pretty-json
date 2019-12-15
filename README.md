@@ -1,5 +1,7 @@
 # php-console-pretty-json
 ```php
+<?php
+
 function jdd($data)
 {
     $data = is_string($data) ? $data : json_encode($data,JSON_PRETTY_PRINT);
