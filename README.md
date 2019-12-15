@@ -15,11 +15,4 @@ function jdd($data)
  jdd(['key'=>'value']);
 ```
 #### Output 
-```bash
-Json dump info:
-index.php:13
-{
-    "key": "value"
-}
-
-```
+![output](https://github.com/tohidplus/php-console-pretty-json/output.jpg)
