@@ -17,7 +17,7 @@ function jdd($data)
 #### Output 
 ```bash
 Json dump info:
-/var/www/app/Providers/Enet/Builders/LineupBuilder.php:33
+index.php:13
 {
     "key": "value"
 }
