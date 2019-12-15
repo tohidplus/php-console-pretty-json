@@ -15,4 +15,4 @@ function jdd($data)
  jdd(['key'=>'value']);
 ```
 #### Output 
-![output](https://github.com/tohidplus/php-console-pretty-json/output.jpg)
+![output](https://github.com/tohidplus/php-console-pretty-json/blob/master/output.jpg)
